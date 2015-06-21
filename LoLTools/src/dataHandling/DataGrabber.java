@@ -1,6 +1,6 @@
 /*Powered by Elophant.com
- *Developer key=UdMVjnHOfK22quVzeWA4
- *HTTP Data call: api.elophant.com/v2/<region>/<resource>?key=UdMVjnHOfK22quVzeWA4
+ *Developer key=********
+ *HTTP Data call: api.elophant.com/v2/<region>/<resource>?key=********
  *API: http://elophant.com/developers/docs
  *<Recource>					<Parameter>
  *champions
