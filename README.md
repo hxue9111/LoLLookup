@@ -1,3 +1,3 @@
 # LoLLookup - 2013
 
-PROJECT NO LONGER SUPPORTED AS API IS DPRECIATED
+Project is no longer supported as the Elophant API is depreciated.
